@@ -1,0 +1,168 @@
+G:\SoftUni\Project\Project\Project\bin\ApplicationInsights.config
+G:\SoftUni\Project\Project\Project\bin\roslyn\csc.exe
+G:\SoftUni\Project\Project\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\SoftUni\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\SoftUni\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\SoftUni\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\SoftUni\Project\Project\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\SoftUni\Project\Project\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\SoftUni\Project\Project\Project\bin\roslyn\System.Collections.Immutable.dll
+G:\SoftUni\Project\Project\Project\bin\roslyn\System.Reflection.Metadata.dll
+G:\SoftUni\Project\Project\Project\bin\roslyn\vbc.exe
+G:\SoftUni\Project\Project\Project\bin\roslyn\VBCSCompiler.exe
+G:\SoftUni\Project\Project\Project\bin\roslyn\VBCSCompiler.exe.config
+G:\SoftUni\Project\Project\Project\bin\Project.dll.config
+G:\SoftUni\Project\Project\Project\bin\Project.dll
+G:\SoftUni\Project\Project\Project\bin\Project.pdb
+G:\SoftUni\Project\Project\Project\bin\Antlr3.Runtime.dll
+G:\SoftUni\Project\Project\Project\bin\EntityFramework.dll
+G:\SoftUni\Project\Project\Project\bin\EntityFramework.SqlServer.dll
+G:\SoftUni\Project\Project\Project\bin\Microsoft.AI.Agent.Intercept.dll
+G:\SoftUni\Project\Project\Project\bin\Microsoft.AI.DependencyCollector.dll
+G:\SoftUni\Project\Project\Project\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\SoftUni\Project\Project\Project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\SoftUni\Project\Project\Project\bin\Microsoft.AI.Web.dll
+G:\SoftUni\Project\Project\Project\bin\Microsoft.AI.WindowsServer.dll
+G:\SoftUni\Project\Project\Project\bin\Microsoft.ApplicationInsights.dll
+G:\SoftUni\Project\Project\Project\bin\Microsoft.AspNet.Identity.Core.dll
+G:\SoftUni\Project\Project\Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\SoftUni\Project\Project\Project\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\SoftUni\Project\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\SoftUni\Project\Project\Project\bin\Microsoft.Owin.dll
+G:\SoftUni\Project\Project\Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\SoftUni\Project\Project\Project\bin\Microsoft.Owin.Security.Cookies.dll
+G:\SoftUni\Project\Project\Project\bin\Microsoft.Owin.Security.dll
+G:\SoftUni\Project\Project\Project\bin\Microsoft.Owin.Security.Facebook.dll
+G:\SoftUni\Project\Project\Project\bin\Microsoft.Owin.Security.Google.dll
+G:\SoftUni\Project\Project\Project\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\SoftUni\Project\Project\Project\bin\Microsoft.Owin.Security.OAuth.dll
+G:\SoftUni\Project\Project\Project\bin\Microsoft.Owin.Security.Twitter.dll
+G:\SoftUni\Project\Project\Project\bin\Microsoft.Web.Infrastructure.dll
+G:\SoftUni\Project\Project\Project\bin\Newtonsoft.Json.dll
+G:\SoftUni\Project\Project\Project\bin\Owin.dll
+G:\SoftUni\Project\Project\Project\bin\System.Web.Helpers.dll
+G:\SoftUni\Project\Project\Project\bin\System.Web.Mvc.dll
+G:\SoftUni\Project\Project\Project\bin\System.Web.Optimization.dll
+G:\SoftUni\Project\Project\Project\bin\System.Web.Razor.dll
+G:\SoftUni\Project\Project\Project\bin\System.Web.WebPages.Deployment.dll
+G:\SoftUni\Project\Project\Project\bin\System.Web.WebPages.dll
+G:\SoftUni\Project\Project\Project\bin\System.Web.WebPages.Razor.dll
+G:\SoftUni\Project\Project\Project\bin\WebGrease.dll
+G:\SoftUni\Project\Project\Project\bin\Microsoft.AI.DependencyCollector.xml
+G:\SoftUni\Project\Project\Project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\SoftUni\Project\Project\Project\bin\Microsoft.AI.Web.xml
+G:\SoftUni\Project\Project\Project\bin\Microsoft.AI.WindowsServer.xml
+G:\SoftUni\Project\Project\Project\bin\Microsoft.ApplicationInsights.xml
+G:\SoftUni\Project\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\SoftUni\Project\Project\Project\bin\System.Web.Helpers.xml
+G:\SoftUni\Project\Project\Project\bin\System.Web.Mvc.xml
+G:\SoftUni\Project\Project\Project\bin\System.Web.Optimization.xml
+G:\SoftUni\Project\Project\Project\bin\System.Web.Razor.xml
+G:\SoftUni\Project\Project\Project\bin\System.Web.WebPages.xml
+G:\SoftUni\Project\Project\Project\bin\System.Web.WebPages.Deployment.xml
+G:\SoftUni\Project\Project\Project\bin\System.Web.WebPages.Razor.xml
+G:\SoftUni\Project\Project\Project\bin\Antlr3.Runtime.pdb
+G:\SoftUni\Project\Project\Project\bin\Newtonsoft.Json.xml
+G:\SoftUni\Project\Project\Project\bin\EntityFramework.xml
+G:\SoftUni\Project\Project\Project\bin\EntityFramework.SqlServer.xml
+G:\SoftUni\Project\Project\Project\bin\Microsoft.AspNet.Identity.Core.xml
+G:\SoftUni\Project\Project\Project\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\SoftUni\Project\Project\Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\SoftUni\Project\Project\Project\bin\Microsoft.Owin.xml
+G:\SoftUni\Project\Project\Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\SoftUni\Project\Project\Project\bin\Microsoft.Owin.Security.xml
+G:\SoftUni\Project\Project\Project\bin\Microsoft.Owin.Security.Facebook.xml
+G:\SoftUni\Project\Project\Project\bin\Microsoft.Owin.Security.Cookies.xml
+G:\SoftUni\Project\Project\Project\bin\Microsoft.Owin.Security.OAuth.xml
+G:\SoftUni\Project\Project\Project\bin\Microsoft.Owin.Security.Google.xml
+G:\SoftUni\Project\Project\Project\bin\Microsoft.Owin.Security.Twitter.xml
+G:\SoftUni\Project\Project\Project\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\SoftUni\Project\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+G:\SoftUni\Project\Project\Project\obj\Debug\Project.dll
+G:\SoftUni\Project\Project\Project\obj\Debug\Project.pdb
+G:\SoftUni\Project\Project\Project\bin\Microsoft.ApplicationInsights.TraceListener.dll
+G:\SoftUni\Project\Project\Project\bin\Microsoft.ApplicationInsights.TraceListener.xml
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\ApplicationInsights.config
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\roslyn\csc.exe
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\roslyn\System.Collections.Immutable.dll
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\roslyn\System.Reflection.Metadata.dll
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\roslyn\vbc.exe
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\roslyn\VBCSCompiler.exe
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\roslyn\VBCSCompiler.exe.config
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Project.dll.config
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Project.dll
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Project.pdb
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Antlr3.Runtime.dll
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\EntityFramework.dll
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\EntityFramework.SqlServer.dll
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Microsoft.AI.Agent.Intercept.dll
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Microsoft.AI.DependencyCollector.dll
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Microsoft.AI.Web.dll
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Microsoft.AI.WindowsServer.dll
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Microsoft.ApplicationInsights.dll
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Microsoft.ApplicationInsights.TraceListener.dll
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Microsoft.AspNet.Identity.Core.dll
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Microsoft.Owin.dll
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Microsoft.Owin.Security.Cookies.dll
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Microsoft.Owin.Security.dll
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Microsoft.Owin.Security.Facebook.dll
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Microsoft.Owin.Security.Google.dll
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Microsoft.Owin.Security.OAuth.dll
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Microsoft.Owin.Security.Twitter.dll
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Microsoft.Web.Infrastructure.dll
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Newtonsoft.Json.dll
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Owin.dll
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\System.Web.Helpers.dll
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\System.Web.Mvc.dll
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\System.Web.Optimization.dll
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\System.Web.Razor.dll
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\System.Web.WebPages.Deployment.dll
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\System.Web.WebPages.dll
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\System.Web.WebPages.Razor.dll
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\WebGrease.dll
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Microsoft.AI.DependencyCollector.xml
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Microsoft.AI.Web.xml
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Microsoft.AI.WindowsServer.xml
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Microsoft.ApplicationInsights.xml
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Microsoft.ApplicationInsights.TraceListener.xml
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\System.Web.Helpers.xml
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\System.Web.Mvc.xml
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\System.Web.Optimization.xml
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\System.Web.Razor.xml
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\System.Web.WebPages.xml
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\System.Web.WebPages.Deployment.xml
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\System.Web.WebPages.Razor.xml
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Antlr3.Runtime.pdb
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Newtonsoft.Json.xml
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\EntityFramework.xml
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\EntityFramework.SqlServer.xml
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Microsoft.AspNet.Identity.Core.xml
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Microsoft.Owin.xml
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Microsoft.Owin.Security.xml
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Microsoft.Owin.Security.Facebook.xml
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Microsoft.Owin.Security.Cookies.xml
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Microsoft.Owin.Security.OAuth.xml
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Microsoft.Owin.Security.Google.xml
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Microsoft.Owin.Security.Twitter.xml
+D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\CodingProjects\Software Technologies\C#\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+D:\CodingProjects\Software Technologies\C#\Project\Project\obj\Debug\Project.dll
+D:\CodingProjects\Software Technologies\C#\Project\Project\obj\Debug\Project.pdb
