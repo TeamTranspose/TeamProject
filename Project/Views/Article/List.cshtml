@@ -1,13 +1,13 @@
 ﻿
 @{
-    ViewBag.Title = "Home";
+    ViewBag.Title = "List";
 }
 
-<h1>Available cars</h1>
-@model List<Project.Models.Article>
+<h1>Announcement board</h1>
+@model IEnumerable<Project.ViewModels.Article.ArticleListViewModel>
 
 @{
-    ViewBag.Title = "Home";
+    ViewBag.Title = "List";
 }
 
 <div class="container">
@@ -23,6 +23,10 @@
                     </header>
                     <p>
                         @article.Content
+                        @foreach (var item in article.Base64Images)
+                        {
+                            <img src="data:image/png;base64,@item.Base64Image" width="100px" height="100px" />
+                        }
                     </p>
                     <footer class="pull-right">
                         <small class="author">

@@ -166,87 +166,87 @@ D:\CodingProjects\Software Technologies\C#\Project\Project\bin\Microsoft.Owin.Se
 D:\CodingProjects\Software Technologies\C#\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
 D:\CodingProjects\Software Technologies\C#\Project\Project\obj\Debug\Project.dll
 D:\CodingProjects\Software Technologies\C#\Project\Project\obj\Debug\Project.pdb
-D:\softuni site project\New folder\TeamProject\Project\bin\ApplicationInsights.config
-D:\softuni site project\New folder\TeamProject\Project\bin\roslyn\csc.exe
-D:\softuni site project\New folder\TeamProject\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-D:\softuni site project\New folder\TeamProject\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-D:\softuni site project\New folder\TeamProject\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
-D:\softuni site project\New folder\TeamProject\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-D:\softuni site project\New folder\TeamProject\Project\bin\roslyn\Microsoft.CSharp.Core.targets
-D:\softuni site project\New folder\TeamProject\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
-D:\softuni site project\New folder\TeamProject\Project\bin\roslyn\System.Collections.Immutable.dll
-D:\softuni site project\New folder\TeamProject\Project\bin\roslyn\System.Reflection.Metadata.dll
-D:\softuni site project\New folder\TeamProject\Project\bin\roslyn\vbc.exe
-D:\softuni site project\New folder\TeamProject\Project\bin\roslyn\VBCSCompiler.exe
-D:\softuni site project\New folder\TeamProject\Project\bin\roslyn\VBCSCompiler.exe.config
-D:\softuni site project\New folder\TeamProject\Project\bin\Project.dll.config
-D:\softuni site project\New folder\TeamProject\Project\bin\Project.dll
-D:\softuni site project\New folder\TeamProject\Project\bin\Project.pdb
-D:\softuni site project\New folder\TeamProject\Project\bin\Antlr3.Runtime.dll
-D:\softuni site project\New folder\TeamProject\Project\bin\EntityFramework.dll
-D:\softuni site project\New folder\TeamProject\Project\bin\EntityFramework.SqlServer.dll
-D:\softuni site project\New folder\TeamProject\Project\bin\Microsoft.AI.Agent.Intercept.dll
-D:\softuni site project\New folder\TeamProject\Project\bin\Microsoft.AI.DependencyCollector.dll
-D:\softuni site project\New folder\TeamProject\Project\bin\Microsoft.AI.PerfCounterCollector.dll
-D:\softuni site project\New folder\TeamProject\Project\bin\Microsoft.AI.ServerTelemetryChannel.dll
-D:\softuni site project\New folder\TeamProject\Project\bin\Microsoft.AI.Web.dll
-D:\softuni site project\New folder\TeamProject\Project\bin\Microsoft.AI.WindowsServer.dll
-D:\softuni site project\New folder\TeamProject\Project\bin\Microsoft.ApplicationInsights.dll
-D:\softuni site project\New folder\TeamProject\Project\bin\Microsoft.ApplicationInsights.TraceListener.dll
-D:\softuni site project\New folder\TeamProject\Project\bin\Microsoft.AspNet.Identity.Core.dll
-D:\softuni site project\New folder\TeamProject\Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-D:\softuni site project\New folder\TeamProject\Project\bin\Microsoft.AspNet.Identity.Owin.dll
-D:\softuni site project\New folder\TeamProject\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-D:\softuni site project\New folder\TeamProject\Project\bin\Microsoft.Owin.dll
-D:\softuni site project\New folder\TeamProject\Project\bin\Microsoft.Owin.Host.SystemWeb.dll
-D:\softuni site project\New folder\TeamProject\Project\bin\Microsoft.Owin.Security.Cookies.dll
-D:\softuni site project\New folder\TeamProject\Project\bin\Microsoft.Owin.Security.dll
-D:\softuni site project\New folder\TeamProject\Project\bin\Microsoft.Owin.Security.Facebook.dll
-D:\softuni site project\New folder\TeamProject\Project\bin\Microsoft.Owin.Security.Google.dll
-D:\softuni site project\New folder\TeamProject\Project\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-D:\softuni site project\New folder\TeamProject\Project\bin\Microsoft.Owin.Security.OAuth.dll
-D:\softuni site project\New folder\TeamProject\Project\bin\Microsoft.Owin.Security.Twitter.dll
-D:\softuni site project\New folder\TeamProject\Project\bin\Microsoft.Web.Infrastructure.dll
-D:\softuni site project\New folder\TeamProject\Project\bin\Newtonsoft.Json.dll
-D:\softuni site project\New folder\TeamProject\Project\bin\Owin.dll
-D:\softuni site project\New folder\TeamProject\Project\bin\System.Web.Helpers.dll
-D:\softuni site project\New folder\TeamProject\Project\bin\System.Web.Mvc.dll
-D:\softuni site project\New folder\TeamProject\Project\bin\System.Web.Optimization.dll
-D:\softuni site project\New folder\TeamProject\Project\bin\System.Web.Razor.dll
-D:\softuni site project\New folder\TeamProject\Project\bin\System.Web.WebPages.Deployment.dll
-D:\softuni site project\New folder\TeamProject\Project\bin\System.Web.WebPages.dll
-D:\softuni site project\New folder\TeamProject\Project\bin\System.Web.WebPages.Razor.dll
-D:\softuni site project\New folder\TeamProject\Project\bin\WebGrease.dll
-D:\softuni site project\New folder\TeamProject\Project\bin\Microsoft.AI.DependencyCollector.xml
-D:\softuni site project\New folder\TeamProject\Project\bin\Microsoft.AI.ServerTelemetryChannel.xml
-D:\softuni site project\New folder\TeamProject\Project\bin\Microsoft.AI.Web.xml
-D:\softuni site project\New folder\TeamProject\Project\bin\Microsoft.AI.WindowsServer.xml
-D:\softuni site project\New folder\TeamProject\Project\bin\Microsoft.ApplicationInsights.xml
-D:\softuni site project\New folder\TeamProject\Project\bin\Microsoft.ApplicationInsights.TraceListener.xml
-D:\softuni site project\New folder\TeamProject\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\softuni site project\New folder\TeamProject\Project\bin\System.Web.Helpers.xml
-D:\softuni site project\New folder\TeamProject\Project\bin\System.Web.Mvc.xml
-D:\softuni site project\New folder\TeamProject\Project\bin\System.Web.Optimization.xml
-D:\softuni site project\New folder\TeamProject\Project\bin\System.Web.Razor.xml
-D:\softuni site project\New folder\TeamProject\Project\bin\System.Web.WebPages.xml
-D:\softuni site project\New folder\TeamProject\Project\bin\System.Web.WebPages.Deployment.xml
-D:\softuni site project\New folder\TeamProject\Project\bin\System.Web.WebPages.Razor.xml
-D:\softuni site project\New folder\TeamProject\Project\bin\Antlr3.Runtime.pdb
-D:\softuni site project\New folder\TeamProject\Project\bin\Newtonsoft.Json.xml
-D:\softuni site project\New folder\TeamProject\Project\bin\EntityFramework.xml
-D:\softuni site project\New folder\TeamProject\Project\bin\EntityFramework.SqlServer.xml
-D:\softuni site project\New folder\TeamProject\Project\bin\Microsoft.AspNet.Identity.Core.xml
-D:\softuni site project\New folder\TeamProject\Project\bin\Microsoft.AspNet.Identity.Owin.xml
-D:\softuni site project\New folder\TeamProject\Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-D:\softuni site project\New folder\TeamProject\Project\bin\Microsoft.Owin.xml
-D:\softuni site project\New folder\TeamProject\Project\bin\Microsoft.Owin.Host.SystemWeb.xml
-D:\softuni site project\New folder\TeamProject\Project\bin\Microsoft.Owin.Security.xml
-D:\softuni site project\New folder\TeamProject\Project\bin\Microsoft.Owin.Security.Facebook.xml
-D:\softuni site project\New folder\TeamProject\Project\bin\Microsoft.Owin.Security.Cookies.xml
-D:\softuni site project\New folder\TeamProject\Project\bin\Microsoft.Owin.Security.OAuth.xml
-D:\softuni site project\New folder\TeamProject\Project\bin\Microsoft.Owin.Security.Google.xml
-D:\softuni site project\New folder\TeamProject\Project\bin\Microsoft.Owin.Security.Twitter.xml
-D:\softuni site project\New folder\TeamProject\Project\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-D:\softuni site project\New folder\TeamProject\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
-D:\softuni site project\New folder\TeamProject\Project\obj\Debug\Project.dll
-D:\softuni site project\New folder\TeamProject\Project\obj\Debug\Project.pdb
+G:\Project Transpose\Project\Project\bin\ApplicationInsights.config
+G:\Project Transpose\Project\Project\bin\roslyn\csc.exe
+G:\Project Transpose\Project\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Project Transpose\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Project Transpose\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Project Transpose\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Project Transpose\Project\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Project Transpose\Project\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Project Transpose\Project\Project\bin\roslyn\System.Collections.Immutable.dll
+G:\Project Transpose\Project\Project\bin\roslyn\System.Reflection.Metadata.dll
+G:\Project Transpose\Project\Project\bin\roslyn\vbc.exe
+G:\Project Transpose\Project\Project\bin\roslyn\VBCSCompiler.exe
+G:\Project Transpose\Project\Project\bin\roslyn\VBCSCompiler.exe.config
+G:\Project Transpose\Project\Project\bin\Project.dll.config
+G:\Project Transpose\Project\Project\bin\Project.dll
+G:\Project Transpose\Project\Project\bin\Project.pdb
+G:\Project Transpose\Project\Project\bin\Antlr3.Runtime.dll
+G:\Project Transpose\Project\Project\bin\EntityFramework.dll
+G:\Project Transpose\Project\Project\bin\EntityFramework.SqlServer.dll
+G:\Project Transpose\Project\Project\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Project Transpose\Project\Project\bin\Microsoft.AI.DependencyCollector.dll
+G:\Project Transpose\Project\Project\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Project Transpose\Project\Project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Project Transpose\Project\Project\bin\Microsoft.AI.Web.dll
+G:\Project Transpose\Project\Project\bin\Microsoft.AI.WindowsServer.dll
+G:\Project Transpose\Project\Project\bin\Microsoft.ApplicationInsights.dll
+G:\Project Transpose\Project\Project\bin\Microsoft.ApplicationInsights.TraceListener.dll
+G:\Project Transpose\Project\Project\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Project Transpose\Project\Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Project Transpose\Project\Project\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Project Transpose\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Project Transpose\Project\Project\bin\Microsoft.Owin.dll
+G:\Project Transpose\Project\Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Project Transpose\Project\Project\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Project Transpose\Project\Project\bin\Microsoft.Owin.Security.dll
+G:\Project Transpose\Project\Project\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Project Transpose\Project\Project\bin\Microsoft.Owin.Security.Google.dll
+G:\Project Transpose\Project\Project\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Project Transpose\Project\Project\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Project Transpose\Project\Project\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Project Transpose\Project\Project\bin\Microsoft.Web.Infrastructure.dll
+G:\Project Transpose\Project\Project\bin\Newtonsoft.Json.dll
+G:\Project Transpose\Project\Project\bin\Owin.dll
+G:\Project Transpose\Project\Project\bin\System.Web.Helpers.dll
+G:\Project Transpose\Project\Project\bin\System.Web.Mvc.dll
+G:\Project Transpose\Project\Project\bin\System.Web.Optimization.dll
+G:\Project Transpose\Project\Project\bin\System.Web.Razor.dll
+G:\Project Transpose\Project\Project\bin\System.Web.WebPages.Deployment.dll
+G:\Project Transpose\Project\Project\bin\System.Web.WebPages.dll
+G:\Project Transpose\Project\Project\bin\System.Web.WebPages.Razor.dll
+G:\Project Transpose\Project\Project\bin\WebGrease.dll
+G:\Project Transpose\Project\Project\bin\Microsoft.AI.DependencyCollector.xml
+G:\Project Transpose\Project\Project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Project Transpose\Project\Project\bin\Microsoft.AI.Web.xml
+G:\Project Transpose\Project\Project\bin\Microsoft.AI.WindowsServer.xml
+G:\Project Transpose\Project\Project\bin\Microsoft.ApplicationInsights.xml
+G:\Project Transpose\Project\Project\bin\Microsoft.ApplicationInsights.TraceListener.xml
+G:\Project Transpose\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Project Transpose\Project\Project\bin\System.Web.Helpers.xml
+G:\Project Transpose\Project\Project\bin\System.Web.Mvc.xml
+G:\Project Transpose\Project\Project\bin\System.Web.Optimization.xml
+G:\Project Transpose\Project\Project\bin\System.Web.Razor.xml
+G:\Project Transpose\Project\Project\bin\System.Web.WebPages.xml
+G:\Project Transpose\Project\Project\bin\System.Web.WebPages.Deployment.xml
+G:\Project Transpose\Project\Project\bin\System.Web.WebPages.Razor.xml
+G:\Project Transpose\Project\Project\bin\Antlr3.Runtime.pdb
+G:\Project Transpose\Project\Project\bin\Newtonsoft.Json.xml
+G:\Project Transpose\Project\Project\bin\EntityFramework.xml
+G:\Project Transpose\Project\Project\bin\EntityFramework.SqlServer.xml
+G:\Project Transpose\Project\Project\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Project Transpose\Project\Project\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Project Transpose\Project\Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Project Transpose\Project\Project\bin\Microsoft.Owin.xml
+G:\Project Transpose\Project\Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Project Transpose\Project\Project\bin\Microsoft.Owin.Security.xml
+G:\Project Transpose\Project\Project\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Project Transpose\Project\Project\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Project Transpose\Project\Project\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Project Transpose\Project\Project\bin\Microsoft.Owin.Security.Google.xml
+G:\Project Transpose\Project\Project\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Project Transpose\Project\Project\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Project Transpose\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+G:\Project Transpose\Project\Project\obj\Debug\Project.dll
+G:\Project Transpose\Project\Project\obj\Debug\Project.pdb

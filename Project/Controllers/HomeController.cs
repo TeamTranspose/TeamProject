@@ -15,7 +15,7 @@ namespace Project.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Transpose - a company with traditions and special care for the customers.";
+            ViewBag.Message = "Your application description page.";
 
             return View();
         }
