@@ -9,11 +9,6 @@ namespace Project.Models
 {
     public class Article
     {
-        public Article()
-        {
-            this.ArticleImages = new HashSet<ArticleImages>();
-        }
-
         [Key]
         public int Id { get; set; }
 
@@ -23,11 +18,10 @@ namespace Project.Models
 
         public string Content { get; set; }
 
-        public virtual ICollection<ArticleImages> ArticleImages { get; set; }
-
         [ForeignKey("Author")]
         public string AuthorId { get; set; }
 
         public virtual ApplicationUser Author { get; set; }
+        
     }
 }

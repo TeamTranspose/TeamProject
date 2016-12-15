@@ -210,13 +210,10 @@
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\ApplicationUser.cs" />
     <Compile Include="Models\Article.cs" />
-    <Compile Include="Models\ArticleImages.cs" />
     <Compile Include="Models\BlogDbContext.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
-    <Compile Include="ViewModels\Article\ArticleCreateViewModel.cs" />
-    <Compile Include="ViewModels\Article\ArticleListViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap.css" />
