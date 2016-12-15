@@ -15,7 +15,7 @@ namespace Project.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "The best rent - a - car service in town";
+            ViewBag.Message = "Your application description page.";
 
             return View();
         }
