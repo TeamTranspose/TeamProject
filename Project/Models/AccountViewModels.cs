@@ -1,117 +1,64 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace Project.Models
+public void Configuration(IAppBuilder app)
 {
-    public class ExternalLoginConfirmationViewModel
+    ConfigureAuth(app);
+    createRolesandUsers();
+}
+
+
+// In this method we will create default User roles and Admin user for login    
+private void createRolesandUsers()
+{
+    ApplicationDbContext context = new ApplicationDbContext();
+
+    var roleManager = new RoleManager<IdentityRole>(new RoleStore<IdentityRole>(context));
+    var UserManager = new UserManager<ApplicationUser>(new UserStore<ApplicationUser>(context));
+
+
+    // In Startup iam creating first Admin Role and creating a default Admin User     
+    if (!roleManager.RoleExists("Admin"))
     {
-        [Required]
-        [Display(Name = "Email")]
-        public string Email { get; set; }
+
+        // first we create Admin rool    
+        var role = new Microsoft.AspNet.Identity.EntityFramework.IdentityRole();
+        role.Name = "Admin";
+        roleManager.Create(role);
+
+        //Here we create a Admin super user who will maintain the website                   
+
+        var user = new ApplicationUser();
+        user.UserName = "shanu";
+        user.Email = "syedshanumcain@gmail.com";
+
+        string userPWD = "A@Z200711";
+
+        var chkUser = UserManager.Create(user, userPWD);
+
+        //Add default User to Role Admin    
+        if (chkUser.Succeeded)
+        {
+            var result1 = UserManager.AddToRole(user.Id, "Admin");
+
+        }
     }
 
-    public class ExternalLoginListViewModel
+    // creating Creating Manager role     
+    if (!roleManager.RoleExists("Manager"))
     {
-        public string ReturnUrl { get; set; }
+        var role = new Microsoft.AspNet.Identity.EntityFramework.IdentityRole();
+        role.Name = "Manager";
+        roleManager.Create(role);
+
     }
 
-    public class SendCodeViewModel
+    // creating Creating Employee role     
+    if (!roleManager.RoleExists("Employee"))
     {
-        public string SelectedProvider { get; set; }
-        public ICollection<System.Web.Mvc.SelectListItem> Providers { get; set; }
-        public string ReturnUrl { get; set; }
-        public bool RememberMe { get; set; }
-    }
+        var role = new Microsoft.AspNet.Identity.EntityFramework.IdentityRole();
+        role.Name = "Employee";
+        roleManager.Create(role);
 
-    public class VerifyCodeViewModel
-    {
-        [Required]
-        public string Provider { get; set; }
-
-        [Required]
-        [Display(Name = "Code")]
-        public string Code { get; set; }
-        public string ReturnUrl { get; set; }
-
-        [Display(Name = "Remember this browser?")]
-        public bool RememberBrowser { get; set; }
-
-        public bool RememberMe { get; set; }
-    }
-
-    public class ForgotViewModel
-    {
-        [Required]
-        [Display(Name = "Email")]
-        public string Email { get; set; }
-    }
-
-    public class LoginViewModel
-    {
-        [Required]
-        [Display(Name = "Email")]
-        [EmailAddress]
-        public string Email { get; set; }
-
-        [Required]
-        [DataType(DataType.Password)]
-        [Display(Name = "Password")]
-        public string Password { get; set; }
-
-        [Display(Name = "Remember me?")]
-        public bool RememberMe { get; set; }
-    }
-
-    public class RegisterViewModel
-    {
-        [Required]
-        [EmailAddress]
-        [Display(Name = "Email")]
-        public string Email { get; set; }
-
-        [Required]
-        [StringLength(50)]
-        [Display(Name = "Full Name")]
-        public string FullName { get; set; }
-
-        [Required]
-        [StringLength(100, ErrorMessage = "The {0} must be at least {2} characters long.", MinimumLength = 1)]
-        [DataType(DataType.Password)]
-        [Display(Name = "Password")]
-        public string Password { get; set; }
-
-        [DataType(DataType.Password)]
-        [Display(Name = "Confirm password")]
-        [Compare("Password", ErrorMessage = "The password and confirmation password do not match.")]
-        public string ConfirmPassword { get; set; }
-    }
-
-    public class ResetPasswordViewModel
-    {
-        [Required]
-        [EmailAddress]
-        [Display(Name = "Email")]
-        public string Email { get; set; }
-
-        [Required]
-        [StringLength(100, ErrorMessage = "The {0} must be at least {2} characters long.", MinimumLength = 1)]
-        [DataType(DataType.Password)]
-        [Display(Name = "Password")]
-        public string Password { get; set; }
-
-        [DataType(DataType.Password)]
-        [Display(Name = "Confirm password")]
-        [Compare("Password", ErrorMessage = "The password and confirmation password do not match.")]
-        public string ConfirmPassword { get; set; }
-
-        public string Code { get; set; }
-    }
-
-    public class ForgotPasswordViewModel
-    {
-        [Required]
-        [EmailAddress]
-        [Display(Name = "Email")]
-        public string Email { get; set; }
     }
 }
