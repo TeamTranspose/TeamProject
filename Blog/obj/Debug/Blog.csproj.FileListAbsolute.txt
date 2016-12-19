@@ -1,0 +1,164 @@
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\ApplicationInsights.config
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\roslyn\csc.exe
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\roslyn\System.Collections.Immutable.dll
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\roslyn\System.Reflection.Metadata.dll
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\roslyn\vbc.exe
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\roslyn\VBCSCompiler.exe
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\roslyn\VBCSCompiler.exe.config
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\Blog.dll.config
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\Blog.dll
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\Blog.pdb
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\Antlr3.Runtime.dll
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\EntityFramework.dll
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\EntityFramework.SqlServer.dll
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\Microsoft.AI.Agent.Intercept.dll
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\Microsoft.AI.DependencyCollector.dll
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\Microsoft.AI.Web.dll
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\Microsoft.AI.WindowsServer.dll
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\Microsoft.ApplicationInsights.dll
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\Microsoft.AspNet.Identity.Core.dll
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\Microsoft.Owin.dll
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\Microsoft.Owin.Security.Cookies.dll
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\Microsoft.Owin.Security.dll
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\Microsoft.Owin.Security.Facebook.dll
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\Microsoft.Owin.Security.Google.dll
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\Microsoft.Owin.Security.OAuth.dll
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\Microsoft.Owin.Security.Twitter.dll
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\Microsoft.Web.Infrastructure.dll
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\Newtonsoft.Json.dll
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\Owin.dll
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\System.Web.Helpers.dll
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\System.Web.Mvc.dll
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\System.Web.Optimization.dll
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\System.Web.Razor.dll
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\System.Web.WebPages.Deployment.dll
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\System.Web.WebPages.dll
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\System.Web.WebPages.Razor.dll
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\WebGrease.dll
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\Microsoft.AI.DependencyCollector.xml
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\Microsoft.AI.Web.xml
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\Microsoft.AI.WindowsServer.xml
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\Microsoft.ApplicationInsights.xml
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\System.Web.Helpers.xml
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\System.Web.Mvc.xml
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\System.Web.Optimization.xml
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\System.Web.Razor.xml
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\System.Web.WebPages.xml
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\System.Web.WebPages.Deployment.xml
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\System.Web.WebPages.Razor.xml
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\Antlr3.Runtime.pdb
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\Newtonsoft.Json.xml
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\EntityFramework.xml
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\EntityFramework.SqlServer.xml
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\Microsoft.AspNet.Identity.Core.xml
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\Microsoft.Owin.xml
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\Microsoft.Owin.Security.xml
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\Microsoft.Owin.Security.Facebook.xml
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\Microsoft.Owin.Security.Cookies.xml
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\Microsoft.Owin.Security.OAuth.xml
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\Microsoft.Owin.Security.Google.xml
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\Microsoft.Owin.Security.Twitter.xml
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\obj\Debug\Blog.csprojResolveAssemblyReference.cache
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\obj\Debug\Blog.dll
+D:\CodingProjects\Software Technologies\C#\Blog\Blog\obj\Debug\Blog.pdb
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\ApplicationInsights.config
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\roslyn\csc.exe
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\roslyn\vbc.exe
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\Blog.dll.config
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\Blog.dll
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\Blog.pdb
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\Antlr3.Runtime.dll
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\EntityFramework.dll
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\EntityFramework.SqlServer.dll
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\Microsoft.AI.Web.dll
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\Microsoft.Owin.dll
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\Microsoft.Owin.Security.dll
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\Newtonsoft.Json.dll
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\Owin.dll
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\System.Web.Helpers.dll
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\System.Web.Mvc.dll
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\System.Web.Optimization.dll
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\System.Web.Razor.dll
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\System.Web.WebPages.dll
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\WebGrease.dll
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\Microsoft.AI.Web.xml
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\System.Web.Helpers.xml
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\System.Web.Mvc.xml
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\System.Web.Optimization.xml
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\System.Web.Razor.xml
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\System.Web.WebPages.xml
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\Antlr3.Runtime.pdb
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\Newtonsoft.Json.xml
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\EntityFramework.xml
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\EntityFramework.SqlServer.xml
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\Microsoft.Owin.xml
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\Microsoft.Owin.Security.xml
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mandrak\Desktop\Blog\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mandrak\Desktop\Blog\Blog\obj\Debug\Blog.csprojResolveAssemblyReference.cache
+C:\Users\Mandrak\Desktop\Blog\Blog\obj\Debug\Blog.dll
+C:\Users\Mandrak\Desktop\Blog\Blog\obj\Debug\Blog.pdb
