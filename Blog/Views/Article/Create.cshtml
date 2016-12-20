@@ -25,10 +25,11 @@
             </div>
 
                 <h3>Upload Image</h3>
-                <input type="file" name="file" value="Browse" />
-                <br />
-                <input type="submit" value="Upload" />
-            
+                <div class="editor-field">
+                    <input id="ImagePath" title="Upload a product image"
+                           type="file" name="ArticleImages" multiple />
+                </div>
+
             if (ViewBag.UploadSuccess == true)
             {
                 <span>Upload Completed Successfully</span>

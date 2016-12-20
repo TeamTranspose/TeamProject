@@ -18,6 +18,13 @@
                     <p>
                         @article.Content
                     </p>
+                    @*<p>
+                        @article.Content
+                        @foreach (var item in article.Base64Images)
+                        {
+                            <img src="data:image/png;base64,@item.Base64Image" width="100px" height="100px" />
+                        }
+                    </p>*@
                     <footer>
                         <div class="pull-left">
                             @foreach (var tag in article.Tags)
