@@ -1,4 +1,4 @@
-﻿@model List<Blog.Models.Tag>
+﻿@model List<Blog.Models.Article>
 
 @{
     ViewBag.Title = "List";
@@ -6,17 +6,29 @@
 
 <div class="container">
     <div class="row">
-        @foreach (var tag in Model)
+        @foreach (var article in Model)
         {
-            <div class="col-sm-6 text-center text-uppercase">
-                <p>
-                    <h2>
-                        @Html.ActionLink(string.Format($"{tag.Name} ({tag.Articles.Count})"),
-                        "ListArticles", "Home", new { @categoryId = tag.Id }, null)
-                    </h2>
-                </p>
+            <div class="col-sm-6">
+                <article>
+                    <header>
+                        <h2>
+                            @Html.ActionLink(@article.Title, "Details", "Article", new { @id = article.Id }, null)
+                        </h2>
+                    </header>
+                    <p>
+                        @article.Content
+                    </p>
+                    <footer class="pull-right">
+                        <small class="author">
+                            --author @article.Author.FullName
+                        </small>
+                    </footer>
+                </article>
             </div>
         }
     </div>
+    <footer class="pull-right">
+        @Html.ActionLink("Back", "Index", "Article", null, new { @class = "btn btn-default btn-xs" })
+    </footer>
 </div>
 <hr />
